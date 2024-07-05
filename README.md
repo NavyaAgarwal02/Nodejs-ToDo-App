@@ -1,6 +1,6 @@
 # To-do list - [view live](https://node-js-to-do-list-dnqhs2f41-navya-agarwal-projects.vercel.app/)
 
-Project made for The Odin Project curriculum, in this project users can create, update, and delete tasks or projects.
+In this project users can create, update, and delete tasks or projects.
 
 ## Credits
 
